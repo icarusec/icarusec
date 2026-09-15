@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @icarusec
-- 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning pentesting
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Im essentially a purple teamer.
 
 <!---
 icarusec/icarusec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
